@@ -1,1 +1,33 @@
-# test
+<br>
+<p align="left"> ${ \space \space \color{#600404} DO \space  \space  YOU \space \space \color{#760607} \space REALLY \color{#8c090b} \space \space  THINK \space \space \space THAT \color{#a30d0f} \space \space LOVE \space \space IS \space \space GONNA \space \color{#d3141a} \space SAVE \space \space THE \space \space WORLD?    {}}$
+
+ <br>
+  <br>
+
+<p align="center">
+ <a href="https://youtu.be/T52nce9yGQI/" target="_blank"> <img src="https://media.discordapp.net/attachments/1417622891213623496/1539404085911093288/279520ad37c97e127aa4192917c156ea_2.gif?ex=6a863146&is=6a84dfc6&hm=11da7cea56d4c6de6eb315b1b866d804899a308b6c0eb90373978591a298c8bc&=&width=320&height=205" alt="Description" style="border: none; display: block; margin: 0; width="780" height="400"">
+  </a>
+</p>
+</p>
+<br>
+
+<p align="right"> ${ \space \space \color{#d3141a} WELL, \space  \space  I \space \space \color{#a30d0f} \space DON'T \space \space  THINK \space \space \space SO. \color{#8c090b} \space \space I \space \space JUST \space \space DONT \space \color{#760607} \space THINK \space SO.    {}}$
+ 
+<br>
+<br>
+
+<p align="center">
+ ${ \color{#600404} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a>ㅤㅤ ${ \color{#600404} ꒱  {}}$
+</p>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&cover_image=false&theme=compact&show_offline=false&background_color=78a0dd00&interchange=true&profanity=false&hide_remaster=false" height="100">
+  </a>
+</p>
+
+<br>
