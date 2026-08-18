@@ -15,14 +15,14 @@
  
 <br>
 <br>
+<br>
 
 <p align="center">
  ${ \color{#600404} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a>ㅤㅤ ${ \color{#600404} ꒱  {}}$
 </p>
 <br>
 <br>
-<br>
-<br>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
