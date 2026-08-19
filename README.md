@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<p align="right"> ${ \space \space \color{#d3141a} WELL, \space  \space  I \space \space \color{#a30d0f} \space DON'T \space \space  THINK \space \space \space SO. \color{#8c090b} \space \space I \space \space JUST \space \space DONT \space \color{#760607} \space THINK \space SO.    {}}$
+<p align="right"> ${ \space \space \color{#d3141a} WELL, \space  \space  I \space \space \color{#a30d0f} \space DONT \space \space  THINK \space \space \space SO. \color{#8c090b} \space \space I \space \space JUST \space \space DONT \space \color{#760607} \space THINK \space SO.    {}}$
  
 <br>
 <br>
@@ -24,10 +24,5 @@
 <br>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7vclqadwhm65lvqzjuatyc3iq&cover_image=false&theme=compact&show_offline=false&background_color=78a0dd00&interchange=true&profanity=false&hide_remaster=false" height="100">
-  </a>
-</p>
 
 <br>
